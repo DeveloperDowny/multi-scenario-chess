@@ -1,0 +1,12 @@
+.history_section {
+  /* display: none; */
+  position: absolute;
+  right: 3rem;
+  top: 2rem;
+  display: flex;
+  flex-direction: column-reverse;
+  max-height: 100vh;
+  overflow: scroll;
+  overflow-x: hidden;
+  gap: 1rem;
+}
