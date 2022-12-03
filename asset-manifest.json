@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/multi-scenario-chess/static/css/main.6c36a950.chunk.css",
+    "main.js": "/multi-scenario-chess/static/js/main.740c5e71.chunk.js",
+    "main.js.map": "/multi-scenario-chess/static/js/main.740c5e71.chunk.js.map",
+    "runtime-main.js": "/multi-scenario-chess/static/js/runtime-main.3107cf04.js",
+    "runtime-main.js.map": "/multi-scenario-chess/static/js/runtime-main.3107cf04.js.map",
+    "static/js/2.6f6d19a9.chunk.js": "/multi-scenario-chess/static/js/2.6f6d19a9.chunk.js",
+    "static/js/2.6f6d19a9.chunk.js.map": "/multi-scenario-chess/static/js/2.6f6d19a9.chunk.js.map",
+    "index.html": "/multi-scenario-chess/index.html",
+    "precache-manifest.f176017e5dbef7f5a8b1677b5016dcfb.js": "/multi-scenario-chess/precache-manifest.f176017e5dbef7f5a8b1677b5016dcfb.js",
+    "service-worker.js": "/multi-scenario-chess/service-worker.js",
+    "static/css/main.6c36a950.chunk.css.map": "/multi-scenario-chess/static/css/main.6c36a950.chunk.css.map",
+    "static/js/2.6f6d19a9.chunk.js.LICENSE.txt": "/multi-scenario-chess/static/js/2.6f6d19a9.chunk.js.LICENSE.txt",
+    "static/js/main.740c5e71.chunk.js.LICENSE.txt": "/multi-scenario-chess/static/js/main.740c5e71.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3107cf04.js",
+    "static/js/2.6f6d19a9.chunk.js",
+    "static/css/main.6c36a950.chunk.css",
+    "static/js/main.740c5e71.chunk.js"
+  ]
+}
